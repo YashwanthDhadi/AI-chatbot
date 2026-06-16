@@ -52,4 +52,3 @@ An AI-powered chatbot built using Flask and the Gemini API, featuring a clean an
 * User authentication
 * Multi-session conversations
 * Dark mode UI
-* Deployment on cloud platforms
